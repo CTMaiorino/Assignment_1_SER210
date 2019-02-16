@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="game_rules">Game Rules:\n
+        Get three of your pieces in a row, either:\n
+        Vertically, Horizontally, or Diagonally.\n
+        If game board fills before either player gets three in a row the game ends. And reset the game.\n\n
+
+        Enter your name below and then start the game.
+
+    </string>
+</resources>
